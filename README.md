@@ -16,18 +16,18 @@ This is a static page for wechat with "gulp","sass"
 ### Folder Structure ###
 
 ├─root              
-│  ├─src                # frontend source folder
+│  ├─app                # frontend source folder
 │  │  ├─assets			# frontend develop folder
 │  │  │  ├─css          
 │  │  │  ├─fonts
 │  │  │  ├─js
-|  |  |  ├─images
-|  |  |  ├─scss
-|  |  |--dist			# frontend build folder
+│  │  │  ├─images
+│  │  │  ├─scss
+│  │  │──dist			# frontend build folder
 │  │  │  ├─css
 │  │  │  ├─fonts
 │  │  │  ├─js
 │  │  │  ├─images
-|  |  |__________ 
-│  |--template          # frontend static html folder
+│  │  │────
+│  │──template          # frontend static html folder
 
