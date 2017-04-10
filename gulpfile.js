@@ -87,7 +87,7 @@ gulp.task("tinypng", function(){
         })).on('error', function(err) {
             console.error(err.message);
         })
-        .pipe(gulp.dest('./src/dist/images/'));
+        .pipe(gulp.dest('./src/dist/'));
 });
 
 // Watch Files For Changes
