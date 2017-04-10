@@ -665,3 +665,10 @@ p {
 .page-engine .des:first-child {
   margin-bottom: 0.75rem;
 }
+
+/* For page-oe-products */
+.page-oe-products .title {
+  font-size: 0.38rem;
+  color: #7f7365;
+  font-weight: bold;
+}
