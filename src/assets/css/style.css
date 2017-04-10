@@ -598,7 +598,7 @@ p {
 }
 
 .content {
-  padding: 0.5rem;
+  padding: 0.5rem 0.5rem 1rem;
   box-sizing: border-box;
 }
 .content p {
@@ -631,4 +631,16 @@ p {
   height: 0.33rem;
   background: url("../images/icon-link.png") no-repeat;
   background-size: 100%;
+}
+
+/* For contact page --- contact.html */
+.page-contact .shop-info {
+  margin-bottom: 0.45rem;
+  text-align: center;
+}
+.page-contact .shop-info .shop-title {
+  font-size: 0.3rem;
+  color: #7f7365;
+  font-weight: bold;
+  margin-bottom: 0.1rem;
 }
