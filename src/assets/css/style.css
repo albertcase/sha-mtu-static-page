@@ -660,3 +660,8 @@ p {
   line-height: 1.5;
   margin-bottom: 0.2rem;
 }
+
+/* for engine page */
+.page-engine .des:first-child {
+  margin-bottom: 0.75rem;
+}
